@@ -9,7 +9,3 @@ variable "domain_name" {
   type        = string
 }
 
-variable "subdomain" {
-  description = "Subdomain name"
-  type        = string
-}
